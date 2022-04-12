@@ -1,0 +1,2 @@
+include ':device-risk-demo'
+rootProject.name = "Device-Risk Demo App"
